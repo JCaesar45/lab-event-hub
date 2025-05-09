@@ -1,3 +1,5 @@
+````markdown
+
 # Event Hub
 
 A simple and clean HTML page for showcasing upcoming and past events, complete with navigation and event details.
